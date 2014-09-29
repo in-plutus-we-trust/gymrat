@@ -1,4 +1,2 @@
-gymrat
+Gym Rat
 ======
-
-Mobile Game
